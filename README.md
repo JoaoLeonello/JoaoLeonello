@@ -15,7 +15,7 @@
 
 Javascript dev, Linux enthusiast, open-source adept.
 
-I'm passionate about computer-science in almost all subjects, web development in frontend, backend, dev-ops, OS, patterns...
+I'm passionate about computer-science in almost all subjects, web development in frontend, backend, dev-ops, OS, patterns and much more.
 
 <br>
 
