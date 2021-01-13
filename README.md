@@ -13,9 +13,9 @@
 <p><em>👨🏻‍💻 Fullstack Dev. at <a href="https://wdna.com.br/">WDNA systems</a></em></p>
 <p><em>👨🏻‍🎓 Software Engineering student</p></em>
 
-Javascript dev, Linux enthusiast, open-source adept.
+Javascript dev and Linux enthusiast.
 
-I'm passionate about computer-science in almost all subjects, web development in frontend, backend, dev-ops, OS, patterns and much more.
+I'm passionate about computer-science in almost all subjects, web development in frontend, backend, dev-ops, OS, patterns and more.
 
 <br>
 
