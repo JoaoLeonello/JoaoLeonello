@@ -10,7 +10,7 @@
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/o0vwzuFwCGAFO/200w.webp?cid=ecf05e47592k99ty25619achsfag0014n4voi03i33hqv7uj&rid=200w.webp" />
 <p><em>👨🏻‍💻 Fullstack Dev.</em></p>
-<p><em>👨🏻‍🎓 Software Engineering student</p></em>
+<p><em>:octocat: Security enthusiast</p></em>
 
 <br>
 
