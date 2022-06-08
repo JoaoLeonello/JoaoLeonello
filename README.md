@@ -1,15 +1,9 @@
 <h2> `Hi ${user.name}!`></h2>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaofelipeleonello/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jfelipe.pl@gmail.com)
 
+Software engineer with passion for design systems and curiosity about what's running under the hood, I focus on fundamentals rather than learning the new framework. I have experience both on backend and frontend with lots of tools and delivered products from scratch, architecting solutions based on business requirements both alone and with horizontal and top-to-down teams. My experience allowed me to make performance enhancements to already launched products from frontend tweaking to cache strategies and be familiar with many relational and non-relational databases, architecture patterns and cloud providers.
 
-<p>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=JoaoLeonello" id="counter">
-</p>
-
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/o0vwzuFwCGAFO/200w.webp?cid=ecf05e47592k99ty25619achsfag0014n4voi03i33hqv7uj&rid=200w.webp" />
-<p><em>👨🏻‍💻 Fullstack Dev.</em></p>
 
 <br>
 
