@@ -6,8 +6,3 @@ Software engineer with passion for design systems and curiosity about what's run
 
 
 <br>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoLeonello&show_icons=true&theme=gotham">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLeonello&langs_count=10&theme=gotham&layout=compact">
-</p>
