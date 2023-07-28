@@ -4,5 +4,5 @@
 
 Software engineer with passion for design systems and curiosity about what's running under the hood, I focus on fundamentals rather than learning the new framework. I have experience both on backend and frontend with lots of tools and delivered products from scratch, architecting solutions based on business requirements both alone and with horizontal teams. My experience allowed me to make performance enhancements to already launched products from frontend tweaking to cache strategies and be familiar with many relational and non-relational databases, architecture patterns and cloud providers.
 
-
+[![JoaoLeonello's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLeonello)](https://github.com/JoaoLeonello/github-readme-stats)
 <br>
