@@ -15,3 +15,12 @@ Check out my personal site and blog, where I share insights on software engineer
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLeonello&layout=pie)](https://github.com/JoaoLeonello/github-readme-stats)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/joaofleonello/)
+- 💻 [bitwise-ops.com](https://bitwise-ops.com)
+
+Thanks for visiting!
