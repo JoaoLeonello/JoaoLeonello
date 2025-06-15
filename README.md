@@ -10,7 +10,7 @@ I’m actively solving problems to sharpen my algorithms and data structures ski
 
 Check out my personal site and blog, where I share insights on software engineering and computer science:
 
-🔗 [bitwise-ops.com](https://bitwise-ops.com)
+[![bitwise-ops.com](https://img.shields.io/badge/Visit-bitwise--ops.com-blue?style=for-the-badge&logo=google-chrome)](https://bitwise-ops.com)
 
 ---
 
