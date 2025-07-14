@@ -5,6 +5,8 @@ I’m actively solving problems to sharpen my algorithms and data structures ski
 🔗 [leetcode.com/u/joaofleonello](https://leetcode.com/u/joaofleonello)
 
 <div align="center">
+  ![LeetCode Solved](https://leetcode-badge.vercel.app/api?username=joaofleonello&style=for-the-badge&logo=LeetCode)
+  <br/><br/>
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=joaofleonello&theme=tokyonight&border=border&animated=true" />
 </div>
 
