@@ -2,8 +2,11 @@ I’m actively solving problems to sharpen my algorithms and data structures ski
 
 🔗 [leetcode.com/u/joaofleonello](https://leetcode.com/u/joaofleonello)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/joaofleonello?theme=dark&font=Fira+Code)
-
+![LeetCode Solved](https://leetcode-badge.vercel.app/api/solved?username=joaofleonello)
+![LeetCode Easy](https://leetcode-badge.vercel.app/api/easy?username=joaofleonello)
+![LeetCode Medium](https://leetcode-badge.vercel.app/api/medium?username=joaofleonello)
+![LeetCode Hard](https://leetcode-badge.vercel.app/api/hard?username=joaofleonello)
+![LeetCode Ranking](https://leetcode-badge.vercel.app/api/ranking?username=joaofleonello)
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=joaofleonello&theme=dark&border=border&animated=true)
 
 ---
