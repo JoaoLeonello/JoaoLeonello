@@ -5,7 +5,7 @@ I’m actively solving problems to sharpen my algorithms and data structures ski
 🔗 [leetcode.com/u/joaofleonello](https://leetcode.com/u/joaofleonello)
 
 <div align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=joaofleonello&theme=tokyonight&border=rounded&animated=true" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=joaofleonello&theme=tokyonight&border=border&animated=true" />
 </div>
 
 ---
@@ -21,7 +21,7 @@ Check out my personal site and blog, where I share insights on software engineer
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLeonello&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLeonello&layout=pie&theme=tokyonight" />
 </div>
 
 ---
