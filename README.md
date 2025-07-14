@@ -1,13 +1,12 @@
+# 👨‍💻 João Leonello
+
 I’m actively solving problems to sharpen my algorithms and data structures skills.
 
 🔗 [leetcode.com/u/joaofleonello](https://leetcode.com/u/joaofleonello)
 
-![LeetCode Solved](https://leetcode-badge.vercel.app/api/solved?username=joaofleonello)
-![LeetCode Easy](https://leetcode-badge.vercel.app/api/easy?username=joaofleonello)
-![LeetCode Medium](https://leetcode-badge.vercel.app/api/medium?username=joaofleonello)
-![LeetCode Hard](https://leetcode-badge.vercel.app/api/hard?username=joaofleonello)
-![LeetCode Ranking](https://leetcode-badge.vercel.app/api/ranking?username=joaofleonello)
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=joaofleonello&theme=dark&border=border&animated=true)
+<div align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=joaofleonello&theme=tokyonight&border=rounded&animated=true" />
+</div>
 
 ---
 
@@ -19,7 +18,11 @@ Check out my personal site and blog, where I share insights on software engineer
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLeonello&layout=pie)](https://github.com/JoaoLeonello/github-readme-stats)
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLeonello&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
@@ -28,4 +31,4 @@ Check out my personal site and blog, where I share insights on software engineer
 - 💼 [LinkedIn](https://www.linkedin.com/in/joaofleonello/)
 - 💻 [bitwise-ops.com](https://bitwise-ops.com)
 
-Thanks for visiting!
+Thanks for visiting! 🚀
