@@ -4,6 +4,8 @@ I’m actively solving problems to sharpen my algorithms and data structures ski
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/joaofleonello?theme=dark&font=Fira+Code)
 
+![LeetCode Stats](https://leetcode-badge.vercel.app/api?username=joaofleonello)
+
 ---
 
 ## 🌐 Website
