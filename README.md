@@ -1,7 +1,7 @@
 # <div align="center">👨‍💻 João Leonello</div>
 
 <div align="center">
-  I am a developer with over 5 years of experience in software development, with the last 3 years dedicated to high-profile projects in large financial institutions. Curerntly I’m solving problems to sharpen my algorithms and data structures skills.  
+  I am a developer with over 5 years of experience in software development, with the last 3 years dedicated to high-profile projects in large financial institutions. Currently, I’m solving problems to sharpen my algorithms and data structures skills.  
   (https://leetcode.com/u/joaofleonello)  
 </div>
 
