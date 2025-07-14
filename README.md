@@ -1,7 +1,7 @@
 # <div align="center">👨‍💻 João Leonello</div>
 
 <div align="center">
-I’m actively solving problems to sharpen my algorithms and data structures skills.
+I’m actively solving problems to sharpen my algorithms and data structures skills.  
   💻 [LeetCode Profile](https://leetcode.com/u/joaofleonello)  
 </div>
 
@@ -18,11 +18,8 @@ I’m actively solving problems to sharpen my algorithms and data structures ski
 ## <div align="center">🌐 Website</div>
 
 <div align="center">
-Check out my personal site and blog, where I share insights on software engineering and computer science:
-</div>
-
-<div align="center">
-🌐 [bitwise-ops.com](https://bitwise-ops.com)
+Check out my personal site and blog, where I share insights on software engineering and computer science:  
+  🌐 [bitwise-ops.com](https://bitwise-ops.com)
 </div>
 
 ---
@@ -39,7 +36,7 @@ Check out my personal site and blog, where I share insights on software engineer
 
 <div align="center">
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/joaofleonello/)  
+  💼 [LinkedIn](https://www.linkedin.com/in/joaofleonello/)  
 
 </div>
 
