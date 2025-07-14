@@ -2,6 +2,7 @@
 
 <div align="center">
 I’m actively solving problems to sharpen my algorithms and data structures skills.
+  💻 [LeetCode Profile](https://leetcode.com/u/joaofleonello)  
 </div>
 
 <div align="center">
@@ -21,7 +22,7 @@ Check out my personal site and blog, where I share insights on software engineer
 </div>
 
 <div align="center">
-[bitwise-ops.com](https://bitwise-ops.com)
+🌐 [bitwise-ops.com](https://bitwise-ops.com)
 </div>
 
 ---
@@ -39,8 +40,6 @@ Check out my personal site and blog, where I share insights on software engineer
 <div align="center">
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/joaofleonello/)  
-- 💻 [LeetCode Profile](https://leetcode.com/u/joaofleonello)  
-- 🌐 [bitwise-ops.com](https://bitwise-ops.com)
 
 </div>
 
