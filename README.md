@@ -8,6 +8,10 @@ I’m actively solving problems to sharpen my algorithms and data structures ski
   <img src="https://leetcode-badge-sage.vercel.app/badge/joaofleonello?theme=dark" alt="LeetCode Solved" />
 </div>
 
+<div align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=joaofleonello&theme=tokyonight&border=border&animated=true" />
+</div>
+
 ---
 
 ## <div align="center">🌐 Website</div>
