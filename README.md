@@ -1,45 +1,35 @@
-# <div align="center">👨‍💻 João Leonello</div>
-
-<div align="center">
-  I am a developer with over 5 years of experience in software development, with the last 3 years dedicated to high-profile projects in large financial institutions. Currently, I’m solving problems to sharpen my algorithms and data structures skills.  
-  (https://leetcode.com/u/joaofleonello)  
-</div>
-
-<div align="center">
-  <img src="https://leetcode-badge-sage.vercel.app/badge/joaofleonello?theme=dark" alt="LeetCode Solved" />
-</div>
-
-<div align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=joaofleonello&theme=tokyonight&border=border&animated=true" />
-</div>
-
----
-
-## <div align="center">🌐 Website</div>
-
-<div align="center">
-Check out my personal site and blog, where I share insights on software engineering and computer science:  
-  🌐 (https://bitwise-ops.com)
-</div>
-
----
-
-## <div align="center">📊 GitHub Stats</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLeonello&layout=pie&theme=tokyonight" />
-</div>
-
----
-
-## <div align="center">📫 Let's Connect</div>
-
 <div align="center">
 
-  💼 [LinkedIn](https://www.linkedin.com/in/joaofleonello/)  
+<a href="https://bitwise-ops.com">
+  <img src="assets/terminal.svg" alt="joao@bitwise-ops:~$ whoami — João Leonello, Full Stack Developer" width="100%" />
+</a>
+
+<br/>
+
+<a href="https://bitwise-ops.com"><img src="https://img.shields.io/badge/bitwise--ops.com-000000?style=for-the-badge&logo=gnometerminal&logoColor=4ade80" alt="bitwise-ops.com" /></a>
+<a href="https://www.linkedin.com/in/joaofleonello/"><img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=4ade80" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/joaofleonello"><img src="https://img.shields.io/badge/leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=4ade80" alt="LeetCode" /></a>
 
 </div>
 
+### `$ cat ./leetcode.log`
+
 <div align="center">
-Thanks for visiting! 🚀
+  <a href="https://leetcode.com/u/joaofleonello">
+    <img src="https://leetcard.jacoblin.cool/joaofleonello?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10&colors=050805,0b140d,4ade80,86efac,22c55e,4ade80,86efac,4ade80" alt="LeetCode stats" />
+  </a>
+  <br/><br/>
+  <a href="https://leetcode.com/u/joaofleonello">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=joaofleonello&theme=dark&border=border&animated=true" alt="LeetCode badges" />
+  </a>
+</div>
+
+### `$ git log --graph --all | snake`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JoaoLeonello/JoaoLeonello/output/snake.svg" alt="green snake eating my contribution graph" />
+</div>
+
+<div align="center">
+<sub><code>01001010 01001100</code> · thanks for visiting · <code>exit 0</code></sub>
 </div>
