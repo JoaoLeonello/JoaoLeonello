@@ -16,15 +16,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # before snk: its container leaves dist/ owned by root
+      - run: mkdir -p dist && python3 scripts/langs.py ${{ github.repository_owner }} dist/langs.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg?color_snake=#4ade80&color_dots=#18181b,#14532d,#15803d,#22c55e,#4ade80
-
-      - run: python3 scripts/langs.py ${{ github.repository_owner }} dist/langs.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
