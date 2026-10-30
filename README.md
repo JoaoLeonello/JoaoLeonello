@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://bitwise-ops.com">
-  <img src="assets/terminal.svg" alt="joao@bitwise-ops:~$ whoami — João Leonello, Full Stack Developer" width="100%" />
+  <img src="assets/terminal.svg" alt="joao@bitwise-ops:~$ whoami: João Leonello, Full Stack Developer" width="100%" />
 </a>
 
 <br/>
@@ -10,26 +10,15 @@
 <a href="https://www.linkedin.com/in/joaofleonello/"><img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=4ade80" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/joaofleonello"><img src="https://img.shields.io/badge/leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=4ade80" alt="LeetCode" /></a>
 
-</div>
+<br/><br/>
 
-### `$ cat ./leetcode.log`
+<img src="https://raw.githubusercontent.com/JoaoLeonello/JoaoLeonello/output/langs.svg" alt="Most used languages" width="49%" />
+<a href="https://leetcode.com/u/joaofleonello"><img src="https://leetcard.jacoblin.cool/joaofleonello?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=1&radius=10&colors=000000,18181b,f4f4f5,a1a1aa,4ade80,22c55e,16a34a,4ade80" alt="LeetCode stats" width="49%" /></a>
 
-<div align="center">
-  <a href="https://leetcode.com/u/joaofleonello">
-    <img src="https://leetcard.jacoblin.cool/joaofleonello?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10&colors=050805,0b140d,4ade80,86efac,22c55e,4ade80,86efac,4ade80" alt="LeetCode stats" />
-  </a>
-  <br/><br/>
-  <a href="https://leetcode.com/u/joaofleonello">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=joaofleonello&theme=dark&border=border&animated=true" alt="LeetCode badges" />
-  </a>
-</div>
+<br/><br/>
 
-### `$ git log --graph --all | snake`
+<img src="https://raw.githubusercontent.com/JoaoLeonello/JoaoLeonello/output/snake.svg" alt="green snake eating my contribution graph" width="100%" />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JoaoLeonello/JoaoLeonello/output/snake.svg" alt="green snake eating my contribution graph" />
-</div>
-
-<div align="center">
 <sub><code>01001010 01001100</code> · thanks for visiting · <code>exit 0</code></sub>
+
 </div>

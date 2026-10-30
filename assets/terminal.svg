@@ -3,11 +3,11 @@
   <style>
     text { font-family: "JetBrains Mono", "Fira Code", "Courier New", monospace; font-size: 15px; }
     .p { fill: #4ade80; font-weight: 700; }
-    .c { fill: #e5ffe9; font-weight: 400; }
-    .h { fill: #4ade80; font-size: 30px; font-weight: 700; letter-spacing: 2px; filter: url(#glow); }
-    .d { fill: #86efac; fill-opacity: .8; }
-    .o { fill: #86efac; }
-    .t { fill: #4ade80; font-size: 13px; opacity: .8; }
+    .c { fill: #f4f4f5; font-weight: 400; }
+    .h { fill: #f4f4f5; font-size: 30px; font-weight: 700; letter-spacing: 2px; }
+    .d { fill: #a1a1aa; }
+    .o { fill: #d4d4d8; }
+    .t { fill: #71717a; font-size: 13px; }
     .a { opacity: 0; animation: show .01s forwards; }
     .cur { animation: blink 1s steps(1) infinite; }
     .scan { animation: scan 6s linear infinite; }
@@ -25,19 +25,19 @@
     </pattern>
     <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#4ade80" stop-opacity="0"/>
-      <stop offset=".5" stop-color="#4ade80" stop-opacity=".08"/>
+      <stop offset=".5" stop-color="#ffffff" stop-opacity=".03"/>
       <stop offset="1" stop-color="#4ade80" stop-opacity="0"/>
     </linearGradient>
     <clipPath id="win"><rect x="1" y="1" width="858" height="362" rx="10"/></clipPath>
   </defs>
 
   <g clip-path="url(#win)">
-    <rect width="860" height="364" fill="#050805"/>
-    <rect width="860" height="36" fill="#0b140d"/>
-    <line x1="0" y1="36" x2="860" y2="36" stroke="#4ade80" stroke-opacity=".35"/>
+    <rect width="860" height="364" fill="#000000"/>
+    <rect width="860" height="36" fill="#18181b"/>
+    <line x1="0" y1="36" x2="860" y2="36" stroke="#27272a"/>
     <circle cx="22" cy="18" r="6" fill="#4ade80" opacity=".9"/>
-    <circle cx="42" cy="18" r="6" fill="#4ade80" opacity=".55"/>
-    <circle cx="62" cy="18" r="6" fill="#4ade80" opacity=".25"/>
+    <circle cx="42" cy="18" r="6" fill="#52525b"/>
+    <circle cx="62" cy="18" r="6" fill="#3f3f46"/>
     <text x="430" y="23" text-anchor="middle" class="t">joao@bitwise-ops: ~ — zsh</text>
     <text x="840" y="23" text-anchor="end" class="t" opacity=".5">01001010 01001100</text>
     <g class="a" style="animation-delay:0.60s"><text x="32" y="78" class="p">joao@bitwise-ops<tspan fill="#86efac">:</tspan><tspan fill="#22c55e">~</tspan><tspan fill="#86efac">$ </tspan><tspan class="c a" style="animation-delay:0.95s">w</tspan><tspan class="c a" style="animation-delay:1.02s">h</tspan><tspan class="c a" style="animation-delay:1.09s">o</tspan><tspan class="c a" style="animation-delay:1.16s">a</tspan><tspan class="c a" style="animation-delay:1.23s">m</tspan><tspan class="c a" style="animation-delay:1.30s">i</tspan></text></g>
@@ -53,5 +53,5 @@
     <rect width="860" height="364" fill="url(#lines)"/>
     <rect class="scan" width="860" height="80" fill="url(#beam)"/>
   </g>
-  <rect x="1" y="1" width="858" height="362" rx="10" fill="none" stroke="#4ade80" stroke-opacity=".6" stroke-width="1.5"/>
+  <rect x="1" y="1" width="858" height="362" rx="10" fill="none" stroke="#27272a" stroke-width="1.5"/>
 </svg>
