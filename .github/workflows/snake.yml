@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@v4
 
       # before snk: its container leaves dist/ owned by root
-      - run: mkdir -p dist && python3 scripts/langs.py ${{ github.repository_owner }} dist/langs.svg
+      - run: mkdir -p dist && python3 scripts/langs.py ${{ github.repository_owner }} dist/languages.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
