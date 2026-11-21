@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="320" viewBox="0 0 500 320" role="img" aria-label="Most used languages">
+  <style>
+    text { font-family: "JetBrains Mono", "Fira Code", "Courier New", monospace; font-size: 14px; }
+    .n { fill: #d4d4d8; }
+    .p { fill: #71717a; }
+    .h { fill: #4ade80; font-size: 20px; font-weight: 700; }
+  </style>
+  <rect x=".5" y=".5" width="499" height="319" rx="10" fill="#000000" stroke="#27272a"/>
+  <text x="24" y="44" class="h">$ ls ./langs --top 5</text>
+  <line x1="24" y1="58" x2="476" y2="58" stroke="#27272a"/>
+  <text x="24" y="104" class="n">Go</text><rect x="150" y="95" width="260" height="8" rx="2" fill="#27272a"/><rect x="150" y="95" width="107" height="8" rx="2" fill="#4ade80"/><text x="476" y="104" class="p" text-anchor="end">41.0%</text><text x="24" y="142" class="n">C++</text><rect x="150" y="133" width="260" height="8" rx="2" fill="#27272a"/><rect x="150" y="133" width="73" height="8" rx="2" fill="#4ade80"/><text x="476" y="142" class="p" text-anchor="end">27.9%</text><text x="24" y="180" class="n">Java</text><rect x="150" y="171" width="260" height="8" rx="2" fill="#27272a"/><rect x="150" y="171" width="39" height="8" rx="2" fill="#4ade80"/><text x="476" y="180" class="p" text-anchor="end">14.9%</text><text x="24" y="218" class="n">TypeScript</text><rect x="150" y="209" width="260" height="8" rx="2" fill="#27272a"/><rect x="150" y="209" width="35" height="8" rx="2" fill="#4ade80"/><text x="476" y="218" class="p" text-anchor="end">13.5%</text><text x="24" y="256" class="n">Python</text><rect x="150" y="247" width="260" height="8" rx="2" fill="#27272a"/><rect x="150" y="247" width="4" height="8" rx="2" fill="#4ade80"/><text x="476" y="256" class="p" text-anchor="end">1.6%</text><text x="24" y="294" class="n">Other</text><rect x="150" y="285" width="260" height="8" rx="2" fill="#27272a"/><rect x="150" y="285" width="3" height="8" rx="2" fill="#52525b"/><text x="476" y="294" class="p" text-anchor="end">1.0%</text>
+</svg>
